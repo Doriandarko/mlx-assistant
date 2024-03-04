@@ -1,6 +1,6 @@
 # MLX Assistant
 
-MLX Assistant is an AI-powered typing assistant that leverages the MLX language model to correct text in real-time. Designed to run in the background, it listens for specific hotkeys to fix typos, casing, and punctuation in the selected text or the current line you're typing. This script is optimized for macOS, taking advantage of MLX's performance on Apple devices.
+MLX Assistant is an AI-powered typing assistant that leverages MLX language models to correct text in real-time. Designed to run in the background, it listens for specific hotkeys to fix typos, casing, and punctuation in the selected text or the current line you're typing. This script is optimized for macOS, taking advantage of MLX's performance on Apple devices.
 
 ## Prerequisites
 
