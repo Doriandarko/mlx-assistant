@@ -39,7 +39,7 @@ Download `mlx-assistant.py` to your preferred directory.
 2. Run the script:
 
 ```bash
-python3 mlx-assistant.py
+python mlx-assistant.py
 ```
 
 
