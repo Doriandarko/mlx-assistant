@@ -49,6 +49,7 @@ python3 mlx-assistant.py
 - `Alt+F10`: Fixes the selected text.
 
 The script will automatically replace the text with the corrected version provided by the MLX model.
+Feel free to change to your preferred keys in the script.
 
 ## Customization
 
