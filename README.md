@@ -4,17 +4,17 @@ MLX Assistant is an AI-powered typing assistant that leverages MLX language mode
 
 ## Prerequisites
 
-- Python 3
+- Python
 - macOS (since MLX is optimized for Apple devices).
 
 ## Setup
 
 1. **Install Dependencies**
 
-First, ensure you have Python 3 installed on your system. Then, install the required Python packages:
+First, ensure you have Python installed on your system. Then, install the required Python packages:
 
 ```bash
-pip3 install pynput pyperclip httpx mlx-lm
+pip install pynput pyperclip httpx mlx-lm
 ```
 
 
