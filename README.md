@@ -5,7 +5,6 @@ MLX Assistant is an AI-powered typing assistant that leverages the MLX language 
 ## Prerequisites
 
 - Python 3
-- Access to the internet to download dependencies and communicate with the MLX model.
 - macOS (since MLX is optimized for Apple devices).
 
 ## Setup
